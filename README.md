@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jad</h1>
-<h3 align="center">A software engineer in the making and data science enthusiast who loves to explore new technologies and leverage it to solve real-life problems.</h3>
+<h3 align="center">A junior engineer who loves to explore new technologies and leverage it to solve real-life problems.</h3>
 
 
 - 📄 Portfolio <a href="https://ezahraoui.tech" target="_blank">https://ezahraoui.tech</a>
